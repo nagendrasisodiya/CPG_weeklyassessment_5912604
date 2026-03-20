@@ -1,0 +1,18 @@
+{
+  "email": "user1@gmail.com",
+  "country": "India",
+  "firstName": "user1",
+  "lastName": "pikachu",
+  "address": "flat-20 xyx building, jaipur",
+  "apartment": "s1",
+  "city": "jaipur",
+  "state": "Rajasthan",
+  "pin": "332244",
+  "phone": "1234567890",
+  "cardDetails": {
+    "cardNumber": "4827 1563 9042 3781",
+    "expireDate": "06/28",
+    "securityCode":"123",
+    "cardName": "user1"
+  }
+}
