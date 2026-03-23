@@ -1,4 +1,4 @@
-import {Page} from "@playwright/test";
+import {expect, Page} from "@playwright/test";
 
 class Signup{
     page:Page
@@ -22,6 +22,7 @@ class Signup{
 
     async createAccount(){
         await this.page.goto(this.data.url)
+        await expect(this.page).toHaveTitle('Sauce Demo');
         await this.signupBTN.click()
         await this.firstNameIF.fill(this.data.firstName)
         await this.lastNameIF.fill(this.data.lastName)
