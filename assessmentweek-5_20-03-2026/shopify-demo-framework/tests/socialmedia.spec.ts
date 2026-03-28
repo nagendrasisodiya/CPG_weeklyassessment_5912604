@@ -3,7 +3,6 @@ import Signup from "../Page object model(POM)/signup.page";
 import path = require("node:path");
 import * as fs from "node:fs";
 import Login from "../Page object model(POM)/loging.page";
-import AddToCart from "../Page object model(POM)/addToCart.page";
 import SocialMedia from "../Page object model(POM)/socialmedia_handel.page";
 
 let json_data=fs.readFileSync(path.join(__dirname, '../Utility-Data/signup.json'))

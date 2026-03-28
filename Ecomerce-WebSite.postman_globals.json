@@ -1,0 +1,81 @@
+{
+	"id": "b458acb1-b972-4215-8c4a-11332b33b0bb",
+	"values": [
+		{
+			"key": "Base-URL-shoperstack",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "token",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "shoperId",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "productId",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "productId1",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "productId2",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "itemid1",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "addressId",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "addressId2",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "addressId3",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "orderID",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "reviewID",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"name": "Ecomerce-WebSite Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2026-03-28T07:58:32.202Z",
+	"_postman_exported_using": "Postman/12.3.6"
+}
