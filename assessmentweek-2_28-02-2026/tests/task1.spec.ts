@@ -10,5 +10,4 @@ test("amazon-task", async({page})=>{
     await page.screenshot({path:`screenshot/sc-${time}.png`})
     console.log(price);
     console.log(name);
-
 })
